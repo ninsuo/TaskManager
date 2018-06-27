@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/16415206/how-can-php-do-centralized-curl-multi-requests/16573405#16573405
